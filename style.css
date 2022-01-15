@@ -1,0 +1,42 @@
+.container-fluid {
+  text-align: center;
+  background-color: #7474bf;
+  padding: 2%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-variant: small-caps;
+
+  letter-spacing: 2px;
+}
+form {
+  background-color: #ece9e6;
+  white-space: pre-wrap;
+  border: 2px dashed indigo;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-variant: small-caps;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+input[type="text"],
+input[type="email"] {
+  width: 80%;
+  border: none;
+  border-radius: 5px;
+  padding: 2%;
+  box-shadow: 0 2px 5px;
+}
+table {
+  border-collapse: collapse;
+  display: flex;
+  padding: 2%;
+  margin: 2%;
+  justify-content: space-around;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+tbody {
+  background-color: plum;
+  border: 1px solid rgb(180, 45, 180);
+  box-shadow: 0 4px 8px;
+}
+label {
+  font-weight: bolder;
+}
