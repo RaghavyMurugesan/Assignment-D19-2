@@ -8,11 +8,11 @@
   letter-spacing: 2px;
 }
 form {
-  background-color: #ece9e6;
+  background-color: ##d2c2f0;
   white-space: pre-wrap;
   border: 2px dashed indigo;
   margin-left: 5%;
-  margin-right: 15%;
+  margin-right: 5%;
   font-variant: small-caps;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
